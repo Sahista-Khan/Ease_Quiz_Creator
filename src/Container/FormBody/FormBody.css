@@ -1,0 +1,75 @@
+.formall{
+    /* flex: 0.2;
+    margin: 4% 19% 5% 19%;
+    background-color: #f7f4fb; */
+     display: flex; 
+     justify-content: center;
+     padding-top: 10px
+}
+
+
+.formqabody{
+    max-width: 700px;
+   min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #eee6f9;
+    width: 100%;
+    border-radius:10px;
+
+    /* //withoutflex i can use margins auto */
+    /* margin:auto */
+}
+
+
+.addquestion{
+    margin-top: 20px;
+    background: white;
+    min-width: 600px;
+    min-height: 83px;
+    border-top: 10px solid purple;
+    border-left: 4px solid #0e7fe0;
+    border-radius: 6px;
+}
+
+.formheader{
+    display: flex;
+    flex-direction: column;    display: flex;
+    flex-direction: column;
+    height: 80px;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
+.forminput1{
+    border: none;
+    border-bottom: 2px solid #7b2eab;
+    height: 28px;
+    background-color: #f9f9f503;
+    padding: 10px 10px 0px 10px;
+    font-size: x-large;
+}
+
+.forminput2{
+    border: none;
+    border-bottom: 1px solid lightgray;
+    padding: 0px 10px 5px 10px;
+}
+
+.done_edit_button{
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #9571de;
+    margin-top: 20px;
+    border:2px solid #9571de;
+    transition: all 0.3s; 
+}
+
+.done_edit_button:hover{
+    cursor: pointer;
+    background-color: white;
+    
+}
