@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ease_Quiz_Creator/static/css/main.8e364169.chunk.css",
+    "main.js": "/Ease_Quiz_Creator/static/js/main.96e0a10c.chunk.js",
+    "main.js.map": "/Ease_Quiz_Creator/static/js/main.96e0a10c.chunk.js.map",
+    "runtime-main.js": "/Ease_Quiz_Creator/static/js/runtime-main.224fa972.js",
+    "runtime-main.js.map": "/Ease_Quiz_Creator/static/js/runtime-main.224fa972.js.map",
+    "static/js/2.533b71ca.chunk.js": "/Ease_Quiz_Creator/static/js/2.533b71ca.chunk.js",
+    "static/js/2.533b71ca.chunk.js.map": "/Ease_Quiz_Creator/static/js/2.533b71ca.chunk.js.map",
+    "static/js/3.7828c977.chunk.js": "/Ease_Quiz_Creator/static/js/3.7828c977.chunk.js",
+    "static/js/3.7828c977.chunk.js.map": "/Ease_Quiz_Creator/static/js/3.7828c977.chunk.js.map",
+    "index.html": "/Ease_Quiz_Creator/index.html",
+    "static/css/main.8e364169.chunk.css.map": "/Ease_Quiz_Creator/static/css/main.8e364169.chunk.css.map",
+    "static/js/2.533b71ca.chunk.js.LICENSE.txt": "/Ease_Quiz_Creator/static/js/2.533b71ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.224fa972.js",
+    "static/js/2.533b71ca.chunk.js",
+    "static/css/main.8e364169.chunk.css",
+    "static/js/main.96e0a10c.chunk.js"
+  ]
+}
